@@ -1,0 +1,3 @@
+
+def ejemplo():
+	print("dos")
